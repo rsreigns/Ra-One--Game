@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal project\\thegame\\source\\thegame\\private\\input\\heroinputcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal project\\thegame\\intermediate\\build\\win64\\x64\\thegameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\unreal project\\thegame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thegame\\definitions.thegame.h",
+            "e:\\unreal project\\thegame\\source\\thegame\\public\\input\\heroinputcomponent.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputcomponent.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputcomponent.generated.h",
+            "e:\\unreal project\\thegame\\source\\thegame\\public\\startupdata\\herostartup_dataasset.h",
+            "e:\\unreal project\\thegame\\source\\thegame\\public\\startupdata\\basestartup_dataasset.h",
+            "e:\\unreal project\\thegame\\intermediate\\build\\win64\\unrealeditor\\inc\\thegame\\uht\\basestartup_dataasset.generated.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "e:\\unreal project\\thegame\\intermediate\\build\\win64\\unrealeditor\\inc\\thegame\\uht\\herostartup_dataasset.generated.h",
+            "e:\\unreal project\\thegame\\source\\thegame\\public\\allgameplaytags.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\public\\nativegameplaytags.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h",
+            "e:\\unreal project\\thegame\\intermediate\\build\\win64\\unrealeditor\\inc\\thegame\\uht\\heroinputcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

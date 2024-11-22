@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheGame">
+      <UniqueIdentifier>{87247813-B9C8-3141-9C98-B5E98633B7C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheGame\TheGame.Build.cs">
+      <Filter>Source\TheGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheGame\TheGame.cpp">
+      <Filter>Source\TheGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheGame\TheGame.h">
+      <Filter>Source\TheGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Private">
+      <UniqueIdentifier>{8E6FDC7F-E640-33B5-9C0C-56170B3191C0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\AllGameplayTags.cpp">
+      <Filter>Source\TheGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\BaseGameplayAbility.cpp">
+      <Filter>Source\TheGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Abilities">
+      <UniqueIdentifier>{DEC27956-2417-3D15-B50D-E3FB1BF104C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TheGame\Private\Abilities\Hero">
+      <UniqueIdentifier>{068B6B0F-7BDE-38DA-975D-2175CC388212}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_ChangeStance.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_Dodge.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_EndCrouch.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_EndPowerUp.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_Flip.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_HitLeft.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_HitRight.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_Jump.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_Look.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_Move.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_SprintEnd.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_SprintStart.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_StartCrouch.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\GA_StartPowerUp.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Hero\HeroGameplayAbility.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Hero</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Abilities\Villain">
+      <UniqueIdentifier>{9B769E1C-54DB-3115-A84B-F2A049027FDB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Abilities\Villain\EnemyGameplayAbility.cpp">
+      <Filter>Source\TheGame\Private\Abilities\Villain</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\AbilitySystem">
+      <UniqueIdentifier>{4DE186B0-0D90-3960-B8A9-8DA4E59DE1AF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\AbilitySystem\GameAbilitySystemComponent.cpp">
+      <Filter>Source\TheGame\Private\AbilitySystem</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Animation">
+      <UniqueIdentifier>{9B1811E5-D792-3809-8187-D4E534761C02}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Animation\BaseAnimInstance.cpp">
+      <Filter>Source\TheGame\Private\Animation</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Animation\Hero">
+      <UniqueIdentifier>{D9554390-995C-3F8A-A2FF-0BE8A379676C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Animation\Hero\HeroBaseAnimInstance.cpp">
+      <Filter>Source\TheGame\Private\Animation\Hero</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Animation\Villain">
+      <UniqueIdentifier>{C616137E-9129-3BD7-9EAE-BF9498217E26}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Animation\Villain\VillainBaseAnimInstance.cpp">
+      <Filter>Source\TheGame\Private\Animation\Villain</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Character">
+      <UniqueIdentifier>{737DE96E-57DB-3CE2-8C7E-9D83EE15E4C5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Character\BaseCharacter.cpp">
+      <Filter>Source\TheGame\Private\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\Character\BaseHeroCharacter.cpp">
+      <Filter>Source\TheGame\Private\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Core">
+      <UniqueIdentifier>{CF412F82-4332-34EA-835B-FAE776197980}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Core\MyPlayerController.cpp">
+      <Filter>Source\TheGame\Private\Core</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\Input">
+      <UniqueIdentifier>{8C8704E9-7029-303D-A989-14B6CDB69232}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\Input\HeroInputComponent.cpp">
+      <Filter>Source\TheGame\Private\Input</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Private\StartupData">
+      <UniqueIdentifier>{25281699-1881-3754-B9A1-C41976A55033}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheGame\Private\StartupData\BaseStartup_DataAsset.cpp">
+      <Filter>Source\TheGame\Private\StartupData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\StartupData\EnemyStartup_DataAsset.cpp">
+      <Filter>Source\TheGame\Private\StartupData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGame\Private\StartupData\HeroStartup_DataAsset.cpp">
+      <Filter>Source\TheGame\Private\StartupData</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheGame\Public">
+      <UniqueIdentifier>{41800EF3-D0E1-3780-8743-D4A15652A378}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\AllGameplayTags.h">
+      <Filter>Source\TheGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\BaseGameplayAbility.h">
+      <Filter>Source\TheGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\DebugHelper.h">
+      <Filter>Source\TheGame\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Abilities">
+      <UniqueIdentifier>{72800487-A905-35B0-A830-20D0DB58F9B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TheGame\Public\Abilities\Hero">
+      <UniqueIdentifier>{5FC278E5-EDE1-3FC4-A06B-F271A3318883}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_ChangeStance.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_Dodge.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_EndCrouch.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_EndPowerUp.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_Flip.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_HitLeft.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_HitRight.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_Jump.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_Look.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_Move.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_SprintEnd.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_SprintStart.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_StartCrouch.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\GA_StartPowerUp.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Hero\HeroGameplayAbility.h">
+      <Filter>Source\TheGame\Public\Abilities\Hero</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Abilities\Villain">
+      <UniqueIdentifier>{274D4DAB-2301-3A62-9EA1-8F0B174D61E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Abilities\Villain\EnemyGameplayAbility.h">
+      <Filter>Source\TheGame\Public\Abilities\Villain</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\AbilitySystem">
+      <UniqueIdentifier>{4971344B-BB49-3A55-A976-069F016BAE9C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\AbilitySystem\GameAbilitySystemComponent.h">
+      <Filter>Source\TheGame\Public\AbilitySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Animation">
+      <UniqueIdentifier>{2D471A47-DD5B-39E8-968A-DC94A724F1B6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Animation\BaseAnimInstance.h">
+      <Filter>Source\TheGame\Public\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Animation\Hero">
+      <UniqueIdentifier>{9452E7C1-CA36-35AB-9269-2977DFEA24F8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Animation\Hero\HeroBaseAnimInstance.h">
+      <Filter>Source\TheGame\Public\Animation\Hero</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Animation\Villain">
+      <UniqueIdentifier>{A5D8C525-073C-3102-B57B-397F70479A56}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Animation\Villain\VillainBaseAnimInstance.h">
+      <Filter>Source\TheGame\Public\Animation\Villain</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Character">
+      <UniqueIdentifier>{96269AC7-451C-3428-A84B-CA1698A13AC3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Character\BaseCharacter.h">
+      <Filter>Source\TheGame\Public\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\Character\BaseHeroCharacter.h">
+      <Filter>Source\TheGame\Public\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Core">
+      <UniqueIdentifier>{7E12F665-6BBB-30E5-912D-A4E070CBC23D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Core\MyPlayerController.h">
+      <Filter>Source\TheGame\Public\Core</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\Input">
+      <UniqueIdentifier>{D49B0F7F-019E-3554-865C-FD876EEB3636}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\Input\HeroInputComponent.h">
+      <Filter>Source\TheGame\Public\Input</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheGame\Public\StartupData">
+      <UniqueIdentifier>{DF17B665-943C-3E38-B6FF-9653A3DE06B0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TheGame\Public\StartupData\BaseStartup_DataAsset.h">
+      <Filter>Source\TheGame\Public\StartupData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\StartupData\EnemyStartup_DataAsset.h">
+      <Filter>Source\TheGame\Public\StartupData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TheGame\Public\StartupData\HeroStartup_DataAsset.h">
+      <Filter>Source\TheGame\Public\StartupData</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

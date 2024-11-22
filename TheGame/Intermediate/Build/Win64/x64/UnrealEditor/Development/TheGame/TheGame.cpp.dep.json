@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal project\\thegame\\source\\thegame\\thegame.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal project\\thegame\\intermediate\\build\\win64\\x64\\thegameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\unreal project\\thegame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thegame\\definitions.thegame.h",
+            "e:\\unreal project\\thegame\\source\\thegame\\thegame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal project\\thegame\\source\\thegame\\private\\allgameplaytags.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal project\\thegame\\intermediate\\build\\win64\\x64\\thegameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\unreal project\\thegame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thegame\\definitions.thegame.h",
+            "e:\\unreal project\\thegame\\source\\thegame\\public\\allgameplaytags.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\public\\nativegameplaytags.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagsmanager.h",
+            "e:\\ue 5.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagsmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

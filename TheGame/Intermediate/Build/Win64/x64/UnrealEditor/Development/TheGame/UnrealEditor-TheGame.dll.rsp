@@ -1,0 +1,111 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"..\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG:FULL
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/d2:-ExtendedWarningInfo
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/ALTERNATENAME:__imp___std_init_once_begin_initialize=__imp_InitOnceBeginInitialize
+/ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN:6
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Module.TheGame.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\TheGame.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\AllGameplayTags.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseGameplayAbility.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_ChangeStance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Dodge.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_EndCrouch.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_EndPowerUp.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Flip.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_HitLeft.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_HitRight.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Jump.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Look.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Move.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_SprintEnd.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_SprintStart.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_StartCrouch.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_StartPowerUp.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroGameplayAbility.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\EnemyGameplayAbility.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GameAbilitySystemComponent.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseAnimInstance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroBaseAnimInstance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\VillainBaseAnimInstance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseCharacter.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseHeroCharacter.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\MyPlayerController.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroInputComponent.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseStartup_DataAsset.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\EnemyStartup_DataAsset.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroStartup_DataAsset.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Default.rc2.res"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
+"..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayAbilities\UnrealEditor-GameplayAbilities.lib"
+"..\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\UnrealEditor-EnhancedInput.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasks\UnrealEditor-GameplayTasks.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTags\UnrealEditor-GameplayTags.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AIModule\UnrealEditor-AIModule.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMG\UnrealEditor-UMG.lib"
+"..\Plugins\Animation\MotionWarping\Intermediate\Build\Win64\x64\UnrealEditor\Development\MotionWarping\UnrealEditor-MotionWarping.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimGraphRuntime\UnrealEditor-AnimGraphRuntime.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"synchronization.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"E:\unreal project\TheGame\Binaries\Win64\UnrealEditor-TheGame.dll"
+/IMPLIB:"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\UnrealEditor-TheGame.sup.lib"
+/PDB:"E:\unreal project\TheGame\Binaries\Win64\UnrealEditor-TheGame.pdb"
+/ignore:4078

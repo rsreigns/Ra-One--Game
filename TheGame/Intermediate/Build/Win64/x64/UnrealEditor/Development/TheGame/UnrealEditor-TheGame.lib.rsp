@@ -1,0 +1,42 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TheGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Module.TheGame.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\TheGame.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\AllGameplayTags.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseGameplayAbility.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_ChangeStance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Dodge.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_EndCrouch.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_EndPowerUp.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Flip.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_HitLeft.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_HitRight.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Jump.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Look.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_Move.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_SprintEnd.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_SprintStart.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_StartCrouch.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GA_StartPowerUp.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroGameplayAbility.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\EnemyGameplayAbility.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\GameAbilitySystemComponent.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseAnimInstance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroBaseAnimInstance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\VillainBaseAnimInstance.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseCharacter.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseHeroCharacter.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\MyPlayerController.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroInputComponent.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\BaseStartup_DataAsset.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\EnemyStartup_DataAsset.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroStartup_DataAsset.cpp.obj"
+"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Default.rc2.res"
+/OUT:"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\UnrealEditor-TheGame.lib"
