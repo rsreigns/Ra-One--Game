@@ -15,7 +15,7 @@ struct FInputActionValue;
 #endif
 #define THEGAME_BaseHeroCharacter_generated_h
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execCallDodge); \
 	DECLARE_FUNCTION(execCallEndPowerUp); \
 	DECLARE_FUNCTION(execCallStartPowerUp); \
@@ -29,7 +29,7 @@ struct FInputActionValue;
 	DECLARE_FUNCTION(execCallJump);
 
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseHeroCharacter(); \
 	friend struct Z_Construct_UClass_ABaseHeroCharacter_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(ABaseHeroCharacter)
 
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ABaseHeroCharacter(ABaseHeroCharacter&&); \
@@ -50,13 +50,13 @@ public: \
 	NO_API virtual ~ABaseHeroCharacter();
 
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_18_PROLOG
-#define FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_GENERATED_BODY \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_18_PROLOG
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_INCLASS_NO_PURE_DECLS \
-	FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_ENHANCED_CONSTRUCTORS \
+	FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_INCLASS_NO_PURE_DECLS \
+	FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,7 +64,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> THEGAME_API UClass* StaticClass<class ABaseHeroCharacter>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_unreal_project_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h
+#define CURRENT_FILE_ID FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Character_BaseHeroCharacter_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

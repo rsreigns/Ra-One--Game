@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define THEGAME_EnemyStartup_DataAsset_generated_h
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUEnemyStartup_DataAsset(); \
 	friend struct Z_Construct_UClass_UEnemyStartup_DataAsset_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(UEnemyStartup_DataAsset)
 
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UEnemyStartup_DataAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~UEnemyStartup_DataAsset();
 
 
-#define FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_12_PROLOG
-#define FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_GENERATED_BODY \
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_12_PROLOG
+#define FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_INCLASS_NO_PURE_DECLS \
-	FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_ENHANCED_CONSTRUCTORS \
+	FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_INCLASS_NO_PURE_DECLS \
+	FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> THEGAME_API UClass* StaticClass<class UEnemyStartup_DataAsset>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_unreal_project_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h
+#define CURRENT_FILE_ID FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_StartupData_EnemyStartup_DataAsset_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

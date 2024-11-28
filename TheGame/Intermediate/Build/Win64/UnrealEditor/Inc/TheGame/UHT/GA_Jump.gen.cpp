@@ -170,14 +170,14 @@ UGA_Jump::~UGA_Jump() {}
 // End Class UGA_Jump
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_unreal_project_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_Statics
+struct Z_CompiledInDeferFile_FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UGA_Jump, UGA_Jump::StaticClass, TEXT("UGA_Jump"), &Z_Registration_Info_UClass_UGA_Jump, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGA_Jump), 1793141051U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_project_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_3754958247(TEXT("/Script/TheGame"),
-	Z_CompiledInDeferFile_FID_unreal_project_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_unreal_project_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_3754958247(TEXT("/Script/TheGame"),
+	Z_CompiledInDeferFile_FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_unreal_project_Ra_One__Game_TheGame_Source_TheGame_Public_Abilities_Hero_GA_Jump_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TheGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Module.TheGame.cpp.obj"
+"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Default.rc2.res"
+/OUT:"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\UnrealEditor-TheGame.lib"
