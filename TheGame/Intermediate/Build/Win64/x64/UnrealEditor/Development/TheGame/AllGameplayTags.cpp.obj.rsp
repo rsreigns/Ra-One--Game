@@ -1,11 +1,13 @@
 "E:\unreal project\TheGame\Source\TheGame\Private\AllGameplayTags.cpp"
-/FI"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
 /FI"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Definitions.TheGame.h"
-/Yu"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Yu"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
 /Fo"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\AllGameplayTags.cpp.obj"
+/experimental:log "E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\AllGameplayTags.cpp.sarif"
 /sourceDependencies "E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\AllGameplayTags.cpp.dep.json"
 @"E:\unreal project\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\TheGame.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

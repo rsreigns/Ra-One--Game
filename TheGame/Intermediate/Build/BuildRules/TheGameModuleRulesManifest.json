@@ -1,10 +1,8 @@
 {
 	"SourceFiles": [
 		"E:\\unreal project\\Ra-One--Game\\TheGame\\Source\\TheGame\\TheGame.Build.cs",
-		"E:\\unreal project\\Ra-One--Game\\TheGame\\Plugins\\DlgSystem-master\\Source\\DlgSystemEditor\\DlgSystemEditor.Build.cs",
-		"E:\\unreal project\\Ra-One--Game\\TheGame\\Plugins\\DlgSystem-master\\Source\\DlgSystem\\DlgSystem.Build.cs",
 		"E:\\unreal project\\Ra-One--Game\\TheGame\\Source\\TheGame.Target.cs",
 		"E:\\unreal project\\Ra-One--Game\\TheGame\\Source\\TheGameEditor.Target.cs"
 	],
-	"EngineVersion": "5.4.4"
+	"EngineVersion": "5.5.0"
 }
