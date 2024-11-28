@@ -2,6 +2,8 @@
 
 
 #include "Character/BaseCharacter.h"
+
+#include "DebugHelper.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "AbilitySystem/GameAbilitySystemComponent.h"
@@ -56,6 +58,7 @@ void ABaseCharacter::Tick(float DeltaTime)
 void ABaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+	Debug::PrintString("Message test");
 
 }
 

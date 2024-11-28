@@ -1,11 +1,13 @@
 "E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\UnrealEditor\Inc\TheGame\UHT\HeroStartup_DataAsset.gen.cpp"
-/FI"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
 /FI"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\Definitions.TheGame.h"
-/Yu"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Yu"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\TheGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
 /Fo"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroStartup_DataAsset.gen.cpp.obj"
+/experimental:log "E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroStartup_DataAsset.gen.cpp.sarif"
 /sourceDependencies "E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\HeroStartup_DataAsset.gen.cpp.dep.json"
 @"E:\unreal project\Ra-One--Game\TheGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheGame\TheGame.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi
